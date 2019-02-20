@@ -24,8 +24,6 @@ class School
       sorted_hash[key] = val.sort
     end
     sorted_hash
-
-    binding.pry
   end
 
 end
